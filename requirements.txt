@@ -1,0 +1,8 @@
+Theano==0.9.0b1
+numpy==1.12.1
+six==1.10.0
+tensorflow==1.1.0
+nltk==3.2.2
+gensim==0.13.1
+scikit_learn==0.19.1
+transfer==0.21

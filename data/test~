@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><Reviews>
+    <Review rid="1004293">
+        <sentences>
+            <sentence id="1004293:0">
+                <text>Judging from previous posts this used to be a good place, but not any longer.</text>
+                <Opinions>
+                    <Opinion category="RESTAURANT#GENERAL" from="51" polarity="negative" target="place" to="56"/>
+                </Opinions>
+            <clause>this not any longer </clause><clause>Judging from previous posts this used to be a good place </clause></sentence>
+            <sentence id="1004293:1">
+                <text>We, there were four of us, arrived at noon - the place was empty - and the staff acted like we were imposing on them and they were very rude.</text>
+                <Opinions>
+                    <Opinion category="SERVICE#GENERAL" from="75" polarity="negative" target="staff" to="80"/>
+                </Opinions>
+            <clause>We arrived at noon </clause><clause>the staff acted like we were imposing on them </clause><clause>the staff acted they were very rude </clause><clause>the place was empty </clause><clause>there were four of us </clause></sentence>
+            <sentence id="1004293:2">
+                <text>They never brought us complimentary noodles, ignored repeated requests for sugar, and threw our dishes on the table.</text>
+                <Opinions>
+                    <Opinion category="SERVICE#GENERAL" from="0" polarity="negative" target="NULL" to="0"/>
+                </Opinions>
+            <clause>They ignored repeated requests for sugar </clause><clause>They threw our dishes on the table </clause><clause>They never brought us complimentary noodles </clause></sentence>
+            <sentence id="1004293:3">
+                <text>The food was lousy - too sweet or too salty and the portions tiny.</text>
+                <Opinions>
+                    <Opinion category="FOOD#QUALITY" from="4" polarity="negative" target="food" to="8"/>
+                    <Opinion category="FOOD#STYLE_OPTIONS" from="52" polarity="negative" target="portions" to="60"/>
+                </Opinions>
+            <clause>The food the portions tiny </clause><clause>The food too sweet </clause><clause>The food was lousy </clause><clause>The food too salty </clause></sentence>
+            <sentence id="1004293:4">
+                <text>After all that, they complained to me about the small tip.</text>
+                <Opinions>
+                    <Opinion category="SERVICE#GENERAL" from="0" polarity="negative" target="NULL" to="0"/>
+                </Opinions>
+            <clause>After all that they complained to me about the small tip </clause></sentence>
+            <sentence id="1004293:5">
+                <text>Avoid this place!</text>
+                <Opinions>
+                    <Opinion category="RESTAURANT#GENERAL" from="11" polarity="negative" target="place" to="16"/>
+                </Opinions>
+            <clause>Avoid this place </clause></sentence>
+        </sentences>
+    </Review>
+</Reviews>

@@ -1,0 +1,1989 @@
+Love Al Di La
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+I recommend this place to everyone.
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+Great food.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+One of my favorite places in Brooklyn. 
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+The pastas are incredible, the risottos (particularly the sepia) are fantastic and the braised rabbit is amazing.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+Overpriced and not tasty 
+gold labels:set(['FOOD#PRICES', 'FOOD#QUALITY'])
+predicted labels:['FOOD#PRICES', 'FOOD#QUALITY']
+The food here was mediocre at best. 
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+It was totally overpriced- fish and chips was about $15.... 
+gold labels:set(['FOOD#PRICES'])
+predicted labels:['FOOD#PRICES', 'FOOD#QUALITY']
+Tasty Dog!
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+An awesome organic dog, and a conscious eco friendly establishment.
+gold labels:set(['RESTAURANT#MISCELLANEOUS', 'FOOD#QUALITY'])
+predicted labels:['SERVICE#GENERAL']
+One of the best hot dogs I have ever eaten.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+Can't wait to go back.
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+The Cypriot restaurant has a lot going for it.
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+But the best pork souvlaki I ever had is the main thing.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+Trust me.
+gold labels:set([])
+predicted labels:['RESTAURANT#GENERAL']
+Run don't walk.
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:[]
+Super YUMMY Pizza!
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+I was visiting New York City with a friend and we discovered this really warm and inviting restaurant.
+gold labels:set(['AMBIENCE#GENERAL'])
+predicted labels:[]
+I LOOOVE their eggplant pizza, as well as their pastas!
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+We had half/half pizza, mine was eggplant and my friend had the buffalo and it was sooo huge for a small size pizza!
+gold labels:set(['FOOD#STYLE_OPTIONS'])
+predicted labels:['FOOD#QUALITY', 'FOOD#STYLE_OPTIONS']
+We had fun eating in there, we were there like around 3 a.m. in the morning!
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL', 'FOOD#QUALITY']
+Will comeback for sure, wish they have it here in LA..
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+Excellent food, although the interior could use some help.
+gold labels:set(['AMBIENCE#GENERAL', 'FOOD#QUALITY'])
+predicted labels:['AMBIENCE#GENERAL', 'FOOD#QUALITY']
+The space kind of feels like an Alice in Wonderland setting, without it trying to be that.
+gold labels:set(['AMBIENCE#GENERAL'])
+predicted labels:['AMBIENCE#GENERAL']
+I paid just about $60 for a good meal, though :)
+gold labels:set(['FOOD#PRICES', 'FOOD#QUALITY'])
+predicted labels:['FOOD#PRICES', 'FOOD#QUALITY']
+Great sake!
+gold labels:set(['DRINKS#QUALITY'])
+predicted labels:['DRINKS#QUALITY']
+Reliable, Fresh Sushi
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+My husband and I take out from here 3-4 times a month.
+gold labels:set([])
+predicted labels:['RESTAURANT#GENERAL']
+The sashimi is always fresh and the rolls are innovative and delicious.
+gold labels:set(['FOOD#QUALITY', 'FOOD#STYLE_OPTIONS'])
+predicted labels:['FOOD#QUALITY']
+Have never had a problem with service save a missing rice once.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+Delivery can be spot on or lacking depending on the weather and the day of the week.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+Delivery guy sometimes get upset if you don't tip more than 10%.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+Best. Sushi. Ever.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+This place has ruined me for neighborhood sushi.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['RESTAURANT#GENERAL', 'FOOD#QUALITY']
+Creative, consistent, fresh.
+gold labels:set(['FOOD#QUALITY', 'FOOD#STYLE_OPTIONS'])
+predicted labels:['FOOD#STYLE_OPTIONS', 'FOOD#QUALITY', 'SERVICE#GENERAL']
+Excellent sashimi, and the millennium roll is beyond delicious.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+Not cheap but very yummy.
+gold labels:set(['FOOD#PRICES', 'FOOD#QUALITY'])
+predicted labels:['FOOD#PRICES', 'FOOD#QUALITY']
+Love it.
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+Very, very nice
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:[]
+The place is a bit hidden away, but once you get there, it's all worth it.
+gold labels:set(['LOCATION#GENERAL', 'RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+not only is the food
+gold labels:set(['RESTAURANT#GENERAL', 'FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+Loved It
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['AMBIENCE#GENERAL', 'RESTAURANT#GENERAL']
+My wife and I went to Water's Edge for a romantic dinner.
+gold labels:set([])
+predicted labels:[]
+We had a very nice time.
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+The waiter was attentive, the food was delicious and the views of the city were great.
+gold labels:set(['LOCATION#GENERAL', 'FOOD#QUALITY', 'SERVICE#GENERAL'])
+predicted labels:['FOOD#QUALITY', 'SERVICE#GENERAL']
+I'd definitely go back again.
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+Great place to relax and enjoy your dinner
+gold labels:set(['AMBIENCE#GENERAL'])
+predicted labels:['RESTAURANT#MISCELLANEOUS', 'AMBIENCE#GENERAL', 'RESTAURANT#GENERAL']
+There is something about their atmosphere that makes me come back nearly every week.
+gold labels:set(['AMBIENCE#GENERAL'])
+predicted labels:['AMBIENCE#GENERAL', 'RESTAURANT#GENERAL']
+Place is open till late, no dress code.
+gold labels:set(['RESTAURANT#MISCELLANEOUS'])
+predicted labels:[]
+Good food: my favorite is the seafood spaghetti.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+Highly recommended!
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+Excellent food for great prices
+gold labels:set(['FOOD#PRICES', 'FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+My husband and I have been sold on this from the first visit.
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+The wait staff is very courteous and accomodating.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+The space is limited so be prepared to wait up to 45 minutes - 1 hour, but be richly rewarded when you savor the delicious indo-chinese food.
+gold labels:set(['RESTAURANT#MISCELLANEOUS', 'AMBIENCE#GENERAL', 'FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY', 'SERVICE#GENERAL']
+There are no negatives to speak of.
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+the bestt!
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+my favorite place lol
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+i love their chicken pasta cant remember the name but is sooo good
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['RESTAURANT#GENERAL', 'FOOD#QUALITY']
+its alright
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['FOOD#QUALITY']
+im not necessarily fanatical about this place, but it was a fun time for low pirces.
+gold labels:set(['RESTAURANT#PRICES', 'RESTAURANT#GENERAL'])
+predicted labels:['AMBIENCE#GENERAL', 'RESTAURANT#GENERAL']
+lobster was good, nothing spectacular.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+its just a fun place to go, not a five star restaraunt.
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['AMBIENCE#GENERAL', 'RESTAURANT#GENERAL']
+Way below average
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:[]
+I think the pizza is so overrated and was under cooked.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+Had no flavor and the staff is rude and not attentive.
+gold labels:set(['FOOD#QUALITY', 'SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+Would NEVER go back
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+I love this place
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+I wasn't here for the pizza so I can't comment on that yet but what I had was very good.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+The service was quick and friendly.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+Everyone was smiling so that made me feel welcome.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+I thought the restaurant was nice and clean.
+gold labels:set(['AMBIENCE#GENERAL', 'RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+I ordered the vitello alla marsala and I was pretty impressed.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['RESTAURANT#GENERAL']
+The veal and the mushrooms were cooked perfectly.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+The potato balls were not dry at all... in fact it was buttery.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+The only downside... they only take cash which is OK if you know about it ahead of time.
+gold labels:set(['RESTAURANT#MISCELLANEOUS'])
+predicted labels:['SERVICE#GENERAL']
+I'll be back for sure.
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+WORST PLACE ON SMITH STREET IN BROOKLYN
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+Very immature bartender, didnt know how to make specific drinks, service was so slowwwww, the food was not fresh or warm, waitresses were busy flirting with men at the bar and werent very attentive to all the customers.
+gold labels:set(['FOOD#QUALITY', 'SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+I would never recommend this place to anybody even for a casual dinner.
+gold labels:set(['RESTAURANT#MISCELLANEOUS', 'RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#MISCELLANEOUS', 'RESTAURANT#GENERAL']
+awesome
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['FOOD#QUALITY']
+the food is always fresh ...
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+overpriced japanese food with mediocre service
+gold labels:set(['FOOD#PRICES', 'SERVICE#GENERAL'])
+predicted labels:['FOOD#PRICES', 'FOOD#QUALITY', 'SERVICE#GENERAL']
+Went here on sat 1/26 and was disappointed.
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:[]
+Chicken teriyaki had tomato or pimentos on top??
+gold labels:set(['FOOD#STYLE_OPTIONS'])
+predicted labels:['FOOD#QUALITY']
+food was luke warm.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+The waitress was not attentive at all.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+I was looking for banana tempura for dessert and they dont have.
+gold labels:set(['FOOD#STYLE_OPTIONS'])
+predicted labels:['FOOD#QUALITY']
+Not because you are "The Four Seasons"... – you are allowed to charge an arm and a leg for a romatic dinner.
+gold labels:set(['RESTAURANT#PRICES'])
+predicted labels:['SERVICE#GENERAL']
+The food was excellent as well as service, however, I left The Four Seasons very dissappointed.
+gold labels:set(['RESTAURANT#GENERAL', 'FOOD#QUALITY', 'SERVICE#GENERAL'])
+predicted labels:['FOOD#QUALITY', 'SERVICE#GENERAL']
+I do not think dinner in Manhattan should cost $400.00 where I am not swept off my feet.
+gold labels:set(['FOOD#PRICES'])
+predicted labels:[]
+Red Dragon Roll - my favorite thing to eat, of any food group - hands down
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+Just go to Yamato and order the Red Dragon Roll.
+gold labels:set(['FOOD#QUALITY', 'RESTAURANT#GENERAL'])
+predicted labels:['FOOD#QUALITY']
+If you don't like it, I don't know what to tell you.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:[]
+The Seafood Dynamite is also otherworldly.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+I'm not even going to bother to describe it; it speaks for itself.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:[]
+Favorite Sushi in NYC
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['RESTAURANT#GENERAL', 'FOOD#QUALITY']
+An unpretentious spot in Park Slope, the sushi is consistently good, the service is pleasant, effective and unassuming.
+gold labels:set(['AMBIENCE#GENERAL', 'FOOD#QUALITY', 'SERVICE#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL', 'AMBIENCE#GENERAL', 'FOOD#QUALITY', 'SERVICE#GENERAL']
+In the summer months, the back garden area is really nice.
+gold labels:set(['AMBIENCE#GENERAL'])
+predicted labels:['AMBIENCE#GENERAL']
+The rolls are creative and I have yet to find another sushi place that serves up more inventive yet delicious japanese food.
+gold labels:set(['FOOD#QUALITY', 'FOOD#STYLE_OPTIONS'])
+predicted labels:['FOOD#QUALITY', 'FOOD#STYLE_OPTIONS']
+The Dancing, White River and Millenium rolls are musts.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+SO GOOD
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL', 'FOOD#QUALITY']
+I CAN EAT HERE EVERY DAY OF THE WEEK REALLY LOL LOVE THIS PLACE ...)
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+Gross food – Wow-
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+I can't remember the last time I had such gross food in New York.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+My quesadilla tasted like it had been made by a three-year old with no sense of proportion or flavor.
+gold labels:set(['FOOD#QUALITY', 'FOOD#STYLE_OPTIONS'])
+predicted labels:['FOOD#QUALITY']
+And $11 for a plate of bland guacamole?
+gold labels:set(['FOOD#PRICES', 'FOOD#QUALITY'])
+predicted labels:['FOOD#PRICES', 'FOOD#QUALITY']
+Come on.
+gold labels:set([])
+predicted labels:['RESTAURANT#GENERAL']
+Don't get me started on the margaritas, either.
+gold labels:set(['DRINKS#QUALITY'])
+predicted labels:['DRINKS#QUALITY']
+Mine tasted like the bartender had forgotten to add the tequila.
+gold labels:set(['DRINKS#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+Save your money and your time and go somewhere else.
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+Oh, and I never write reviews--I just was so moved by how bad this place was, I felt it was my duty to spread the word.
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:[]
+Great Indian Food!
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+This place was reccomended to me by a friend.
+gold labels:set([])
+predicted labels:[]
+When I got there the place was packed but they made sure to seat me quickly.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:[]
+The food was good, the place was clean and affordable.
+gold labels:set(['RESTAURANT#PRICES', 'AMBIENCE#GENERAL', 'FOOD#QUALITY'])
+predicted labels:['AMBIENCE#GENERAL', 'FOOD#QUALITY']
+I noticed alot of indian people eatting there which is a great sign for an indian place!
+gold labels:set(['RESTAURANT#MISCELLANEOUS'])
+predicted labels:[]
+This is one of my favorite spot, very relaxing the food is great all the times , celebrated my engagement and my wedding here , it was very well organized .
+gold labels:set(['FOOD#QUALITY', 'RESTAURANT#MISCELLANEOUS', 'AMBIENCE#GENERAL', 'RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#MISCELLANEOUS', 'AMBIENCE#GENERAL', 'RESTAURANT#GENERAL', 'SERVICE#GENERAL']
+The staff is very good.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+Love their drink menu.
+gold labels:set(['DRINKS#STYLE_OPTIONS'])
+predicted labels:[]
+I highly recommend this beautiful place.
+gold labels:set(['AMBIENCE#GENERAL', 'RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+Nice for one time special occasion.
+gold labels:set(['RESTAURANT#MISCELLANEOUS'])
+predicted labels:['RESTAURANT#MISCELLANEOUS']
+Went for Mom's birthday brunch/lunch.
+gold labels:set([])
+predicted labels:[]
+They honored reservation on Sunday afternoon very well. 
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:[]
+Be aware.
+gold labels:set([])
+predicted labels:['SERVICE#GENERAL']
+We were offered water for the table but were not told the Voss bottles of water were $8 a piece.
+gold labels:set(['DRINKS#PRICES'])
+predicted labels:['SERVICE#GENERAL']
+Food was OK.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+Nice view of river and NYC.
+gold labels:set(['LOCATION#GENERAL'])
+predicted labels:['LOCATION#GENERAL', 'AMBIENCE#GENERAL']
+I come here enjoy very much with husband.
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+Remind me of home.
+gold labels:set(['RESTAURANT#MISCELLANEOUS'])
+predicted labels:[]
+Great survice
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+MMMMMMMMMmmmmmm so delicious
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+A beautifully designed dreamy Egyptian restaurant that gets sceney at night.
+gold labels:set(['AMBIENCE#GENERAL'])
+predicted labels:['AMBIENCE#GENERAL']
+Watch the talented belly dancers as you enjoy delicious baba ganoush that's more lemony than smoky.
+gold labels:set(['AMBIENCE#GENERAL', 'FOOD#QUALITY'])
+predicted labels:['AMBIENCE#GENERAL', 'FOOD#QUALITY']
+Oh, and there's hookah.
+gold labels:set(['AMBIENCE#GENERAL'])
+predicted labels:[]
+Raymond the bartender rocks!
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:[]
+Pacifico is a great place to casually hang out.
+gold labels:set(['RESTAURANT#MISCELLANEOUS'])
+predicted labels:['AMBIENCE#GENERAL']
+The drinks are great, especially when made by Raymond.
+gold labels:set(['DRINKS#QUALITY', 'SERVICE#GENERAL'])
+predicted labels:['DRINKS#QUALITY', 'SERVICE#GENERAL']
+The omlette for brunch is great...
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+the spinach is fresh, definately not frozen...
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+quacamole at pacifico is yummy, as are the wings with chimmichuri.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['DRINKS#QUALITY', 'FOOD#QUALITY']
+A weakness is the chicken in the salads.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+It's just average, just shredded, no seasoning on it.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+Also, I personally wasn't a fan of the portobello and asparagus mole.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+Overall, decent food at a good price, with friendly people.
+gold labels:set(['FOOD#PRICES', 'FOOD#QUALITY', 'SERVICE#GENERAL'])
+predicted labels:['RESTAURANT#PRICES', 'RESTAURANT#GENERAL', 'FOOD#QUALITY']
+Best Indian Restaurant in the City
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL', 'FOOD#QUALITY']
+Decor needs to be upgraded but the food is amazing!
+gold labels:set(['AMBIENCE#GENERAL', 'FOOD#QUALITY'])
+predicted labels:['AMBIENCE#GENERAL', 'FOOD#QUALITY', 'SERVICE#GENERAL']
+This small Astoria souvlaki spot makes what many consider the best gyros in New York.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:[]
+What really makes it shine is the food, which is aggressively seasoned with Cyrpriot spices, and all made in-house (even the gyro meat and sausages), and made of much higher quality ingredients that might otherwise be expected.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY', 'FOOD#STYLE_OPTIONS']
+All the various Greek and Cypriot dishes are excellent, but the gyro is the reason to come--if you don't eat one your trip was wasted.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+Best restaurant in Brooklyn
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+The best!
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL', 'FOOD#QUALITY']
+Great food, amazing service, this place is a class act.
+gold labels:set(['RESTAURANT#GENERAL', 'FOOD#QUALITY', 'SERVICE#GENERAL'])
+predicted labels:['AMBIENCE#GENERAL', 'FOOD#QUALITY', 'SERVICE#GENERAL']
+The veal was incredible last night.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+Fresh, mind blowing flavors.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+This place is a must visit!
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+You want to have a real hot dog in Brooklyn?
+gold labels:set([])
+predicted labels:['FOOD#QUALITY']
+Delicious, creative and fun.
+gold labels:set(['FOOD#QUALITY', 'FOOD#STYLE_OPTIONS'])
+predicted labels:['AMBIENCE#GENERAL', 'FOOD#QUALITY', 'FOOD#STYLE_OPTIONS']
+Got a date? Go here!
+gold labels:set(['RESTAURANT#MISCELLANEOUS'])
+predicted labels:['RESTAURANT#MISCELLANEOUS']
+Every time I have a special occasion with my boyfriend I have a hard time going anywhere else.
+gold labels:set(['RESTAURANT#MISCELLANEOUS'])
+predicted labels:[]
+It is so romantic.
+gold labels:set(['AMBIENCE#GENERAL'])
+predicted labels:['AMBIENCE#GENERAL']
+Its dark, and cozy.. there is always jazz music playing when we go.
+gold labels:set(['AMBIENCE#GENERAL'])
+predicted labels:['AMBIENCE#GENERAL']
+Most of the booths allow you to sit next to eachother without looking like 'that' couple.
+gold labels:set(['AMBIENCE#GENERAL'])
+predicted labels:[]
+The food is all shared so we get to order together and eat together.
+gold labels:set(['FOOD#STYLE_OPTIONS'])
+predicted labels:['FOOD#QUALITY']
+I've enjoyed 99% of the dishes we've ordered with the only exceptions being the occasional too-authentic-for-me dish (I'm a daring eater but not THAT daring).
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+Once you try it for a special occasion beware.. you can't stop!
+gold labels:set(['RESTAURANT#MISCELLANEOUS'])
+predicted labels:['RESTAURANT#MISCELLANEOUS', 'RESTAURANT#GENERAL']
+You'll be ther for every anniversary, birthday, valentines day...
+gold labels:set(['RESTAURANT#MISCELLANEOUS'])
+predicted labels:[]
+For a Fabulous Wedding!
+gold labels:set(['RESTAURANT#MISCELLANEOUS'])
+predicted labels:[]
+My daughter's wedding reception at Water's Edge received the highest compliments from our guests.
+gold labels:set(['RESTAURANT#MISCELLANEOUS'])
+predicted labels:['SERVICE#GENERAL']
+Everyone raved about the atmosphere (elegant rooms and absolutely incomparable views) and the fabulous food!
+gold labels:set(['LOCATION#GENERAL', 'AMBIENCE#GENERAL', 'FOOD#QUALITY'])
+predicted labels:['AMBIENCE#GENERAL', 'FOOD#QUALITY', 'SERVICE#GENERAL']
+Service was wonderful;
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+everyone was cheerfully cooperative and helpful.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+Paul, the maitre d', was totally professional and always on top of things.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+Thank you everyone at Water's Edge.
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+Ruth, mother of the Bride
+gold labels:set([])
+predicted labels:['SERVICE#GENERAL']
+would NOT go back.
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+Service ok but unfriendly,filthy bathroom.
+gold labels:set(['AMBIENCE#GENERAL', 'SERVICE#GENERAL'])
+predicted labels:['AMBIENCE#GENERAL', 'SERVICE#GENERAL']
+The high prices you're going to pay is for the view not for the food.
+gold labels:set(['RESTAURANT#PRICES', 'LOCATION#GENERAL', 'FOOD#QUALITY'])
+predicted labels:['RESTAURANT#PRICES', 'SERVICE#GENERAL']
+The bar drinks were Eh, ok to say the least.
+gold labels:set(['DRINKS#QUALITY'])
+predicted labels:['AMBIENCE#GENERAL', 'DRINKS#QUALITY']
+The stuff tilapia was horrid...tasted like cardboard.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+We thought the dessert would be better, Wrong!
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+$170 down the toilet...
+gold labels:set(['RESTAURANT#PRICES', 'RESTAURANT#GENERAL'])
+predicted labels:['FOOD#PRICES', 'RESTAURANT#PRICES']
+oh speaking of bathroom , the mens bathroom was disgusting.
+gold labels:set(['AMBIENCE#GENERAL'])
+predicted labels:['AMBIENCE#GENERAL', 'SERVICE#GENERAL']
+The floor was wet, the trash can filled with hand towels n all over the floor, no soap, and no hand towels left.
+gold labels:set(['AMBIENCE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+Good Experience
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+During our trip to NYC, we made reservations to dine in the pool room of the Four Seasons for their pre-theater menu (offering a modified menu for $65 pp).
+gold labels:set([])
+predicted labels:['FOOD#PRICES']
+The wine list was extensive - though the staff did not seem knowledgeable about wine pairings.
+gold labels:set(['DRINKS#STYLE_OPTIONS', 'SERVICE#GENERAL'])
+predicted labels:['DRINKS#STYLE_OPTIONS', 'SERVICE#GENERAL']
+The bread we received was horrible - rock hard and cold - and the "free" appetizer of olives was disappointing.
+gold labels:set(['FOOD#PRICES', 'FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+However, our main course was wonderful.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['RESTAURANT#GENERAL']
+I had fish and my husband had the filet - both of which exceeded our expectations.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+The dessert (we had a pear torte) was good - but, once again, the staff was unable to provide appropriate drink suggestions.
+gold labels:set(['FOOD#QUALITY', 'SERVICE#GENERAL'])
+predicted labels:['FOOD#QUALITY', 'SERVICE#GENERAL']
+When we inquired about ports - the waitress listed off several but did not know taste variations or cost.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+Not what I would expect for the price and prestige of this location.
+gold labels:set(['RESTAURANT#PRICES', 'RESTAURANT#MISCELLANEOUS', 'SERVICE#GENERAL'])
+predicted labels:[]
+All in all, I would return - as it was a beautiful restaurant - but I hope the staff pays more attention to the little details in the future.
+gold labels:set(['AMBIENCE#GENERAL', 'RESTAURANT#GENERAL', 'SERVICE#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL', 'SERVICE#GENERAL']
+short and sweet – seating is great:it's romantic,cozy and private.
+gold labels:set(['AMBIENCE#GENERAL'])
+predicted labels:['AMBIENCE#GENERAL']
+The boths are not as small as some of the reviews make them out to look they're perfect for 2 people.
+gold labels:set(['AMBIENCE#GENERAL'])
+predicted labels:[]
+The service was extremely fast and attentive(thanks to the service button on your table) but I barely understood 1 word when the waiter took our order.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+The food was ok and fair nothing to go crazy.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+over.
+gold labels:set([])
+predicted labels:['FOOD#QUALITY']
+Over all the looks of the place exceeds the actual meals.
+gold labels:set(['AMBIENCE#GENERAL', 'FOOD#QUALITY'])
+predicted labels:[]
+So what you really end up paying for is the restaurant not the food.
+gold labels:set(['RESTAURANT#PRICES', 'AMBIENCE#GENERAL', 'FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+Will prob. not return but it is a great dinning experience to try atleast once.
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+Impressed...
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+Subtle food and service
+gold labels:set(['FOOD#QUALITY', 'SERVICE#GENERAL'])
+predicted labels:['FOOD#QUALITY', 'SERVICE#GENERAL']
+Noodle pudding is exactly the type of service and food I enjoy.
+gold labels:set(['FOOD#QUALITY', 'SERVICE#GENERAL'])
+predicted labels:['FOOD#QUALITY', 'SERVICE#GENERAL']
+Servers are all different, Greg is my favorite.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+Sometimes tables don't understand his sense of humor but it's refreshing to have a server who has personality, professionalism, and respects the privacy of your dinner.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['AMBIENCE#GENERAL', 'SERVICE#GENERAL']
+This is the first place I've been that a runner remembers my order... hope he likes his job because I have half a mind to steal him for my restaurant.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:[]
+Prices are fair across the board for both food and bev.
+gold labels:set(['FOOD#PRICES', 'DRINKS#PRICES'])
+predicted labels:['RESTAURANT#PRICES']
+I go out to eat and like my courses, servers are patient and never rush courses or force another drink.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+amazing fresh dogs but best of all endless toppings!!!
+gold labels:set(['FOOD#QUALITY', 'FOOD#STYLE_OPTIONS'])
+predicted labels:['FOOD#QUALITY']
+this place had ALL the trimmings and i mean all.
+gold labels:set(['FOOD#STYLE_OPTIONS'])
+predicted labels:[]
+peppers, onions, relish, chilli, cheeses, you NAME it.
+gold labels:set(['FOOD#STYLE_OPTIONS'])
+predicted labels:['FOOD#QUALITY']
+amazing fun for hot dog lovers of all ages PLEASE do yourself a favor and check this place out!!!!
+gold labels:set(['FOOD#QUALITY', 'RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+BEST DINING EXPERIENCE IN THE WEST VILLAGE!
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+Stepping into Casa La Femme last night was a true experience unlike any other in New York!
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:[]
+Highly impressed from the decor to the food to the hospitality to the great night I had!
+gold labels:set(['RESTAURANT#GENERAL', 'AMBIENCE#GENERAL', 'FOOD#QUALITY', 'SERVICE#GENERAL'])
+predicted labels:['AMBIENCE#GENERAL', 'FOOD#QUALITY']
+The have a great cocktail with Citrus Vodka and lemon and lime juice and mint leaves that is to die for!
+gold labels:set(['DRINKS#QUALITY'])
+predicted labels:['DRINKS#QUALITY', 'FOOD#QUALITY']
+Food took some time to prepare, all worth waiting for.
+gold labels:set(['FOOD#QUALITY', 'SERVICE#GENERAL'])
+predicted labels:['FOOD#QUALITY']
+We were drawn into the belly dancing show that captivated the crowd.
+gold labels:set(['AMBIENCE#GENERAL'])
+predicted labels:[]
+I never write on these sites but this restaurant is def worth commending!
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+Great find in the West Village!
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+Maggot in the food!
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+I've been wanting to go to this place forever and finally got a table.
+gold labels:set([])
+predicted labels:[]
+The menu looked great, and the waiter was very nice, but when the food came, it was average.
+gold labels:set(['SERVICE#GENERAL', 'FOOD#QUALITY', 'FOOD#STYLE_OPTIONS'])
+predicted labels:['FOOD#STYLE_OPTIONS', 'FOOD#QUALITY', 'SERVICE#GENERAL']
+Nevertheless, I finished my plate, and that's when I found a maggot in mushroom sauce at the bottom.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+I showed it to the manager, and he smilingly apologized and brought us two free desserts (but did not ask us what we wanted and so brought the last two desserts we would have asked for).
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+When the bill came, nothing was comped, so I told the manager very politely that we were willing to pay for the wine, but I didn't think I should have to pay for food with a maggot in it.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+Yes, I ate the food, but I certainly would not have if I had seen the maggot before eating, and I was at this point fairly sick to my stomach.
+gold labels:set([])
+predicted labels:['FOOD#QUALITY']
+The manager finally said he would comp the two glasses of wine (which cost less than the food), and made it seem like a big concession.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+We paid and left because we didn't feel like arguing any more.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+I have worked in restaurants and cook a lot, and there is no way a maggot should be able to get into well prepared food.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY', 'SERVICE#GENERAL']
+For a restaurant with such a good reputation and that is usually so packed, there was no reason for such a lack of intelligent customer service.
+gold labels:set(['RESTAURANT#MISCELLANEOUS', 'SERVICE#GENERAL'])
+predicted labels:['AMBIENCE#GENERAL', 'SERVICE#GENERAL']
+Unhygienic
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['RESTAURANT#MISCELLANEOUS', 'FOOD#QUALITY', 'SERVICE#GENERAL']
+I do not recommend.
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+I went there 2times .
+gold labels:set([])
+predicted labels:[]
+I got hair in my food 2 times of then !
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+Great place, great value.
+gold labels:set(['RESTAURANT#PRICES', 'RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#PRICES', 'RESTAURANT#GENERAL']
+The food is flavorful, plentiful and reasonably priced.
+gold labels:set(['FOOD#PRICES', 'FOOD#QUALITY', 'FOOD#STYLE_OPTIONS'])
+predicted labels:['FOOD#PRICES', 'FOOD#QUALITY', 'FOOD#STYLE_OPTIONS']
+The atmosphere is relaxed and casual.
+gold labels:set(['AMBIENCE#GENERAL'])
+predicted labels:['AMBIENCE#GENERAL']
+It's a great place to order from or sit-in.
+gold labels:set(['RESTAURANT#MISCELLANEOUS'])
+predicted labels:[]
+Awesome
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['FOOD#QUALITY']
+Inexpensive, unassuming, great time!
+gold labels:set(['RESTAURANT#PRICES', 'AMBIENCE#GENERAL', 'RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#PRICES', 'RESTAURANT#GENERAL']
+Sushi experience was unbelievable with my fiance.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+Try it!
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+Very pleased
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#PRICES', 'DRINKS#QUALITY', 'FOOD#QUALITY', 'RESTAURANT#GENERAL']
+Good creative rolls!
+gold labels:set(['FOOD#QUALITY', 'FOOD#STYLE_OPTIONS'])
+predicted labels:['FOOD#QUALITY', 'FOOD#STYLE_OPTIONS']
+Yamato is an excellent place to go if youre not into sashimi, or if you have friends who doesnt like sushi much.
+gold labels:set(['RESTAURANT#MISCELLANEOUS'])
+predicted labels:['FOOD#QUALITY']
+They have great rolls, the triple color and norwegetan rolls, are awesome and filling.
+gold labels:set(['FOOD#QUALITY', 'FOOD#STYLE_OPTIONS'])
+predicted labels:['FOOD#QUALITY', 'FOOD#STYLE_OPTIONS']
+One special roll and one regular roll is enough to fill you up, but save room for dessert!
+gold labels:set(['FOOD#QUALITY', 'FOOD#STYLE_OPTIONS'])
+predicted labels:['FOOD#QUALITY']
+They have a delicious banana chocolate dessert, as well as a great green tea tempura.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+The appetizers are also delicious!
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+Amazing food.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+Mazing interior.
+gold labels:set(['AMBIENCE#GENERAL'])
+predicted labels:['AMBIENCE#GENERAL']
+Great food!
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+I've had my fair share of modern Japanese and this spot delivers.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['RESTAURANT#GENERAL']
+The atmosphere was pretty nice but had a bit lacking, which it tries to make up for with a crazy scheme of mirrors.
+gold labels:set(['AMBIENCE#GENERAL'])
+predicted labels:['AMBIENCE#GENERAL']
+If you're into being lost when you're just five feet from your table then hey, that's a good thing.
+gold labels:set(['AMBIENCE#GENERAL'])
+predicted labels:['RESTAURANT#MISCELLANEOUS']
+Despite the confusing mirrors this will likely be my go-to for modern Japanese food for the foreseeable future.
+gold labels:set(['AMBIENCE#GENERAL', 'FOOD#QUALITY'])
+predicted labels:[]
+Indo Chinese food, pretty good...
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY', 'FOOD#STYLE_OPTIONS']
+Not a very fancy place but very good Chinese style Indian food.
+gold labels:set(['AMBIENCE#GENERAL', 'FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+The chicken lollipop is my favorite, most of the dishes (I have to agree with a previous reviewer) are quite oily and very spicy, espeically the Chilli Chicken.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+My mom originally introduced me to this place, but even she (being Indian) feels the food can be somewhat over the top spicy and far too oily.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+Still we keep going back :)
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+I was speechless by the horrible food.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+I attended a holiday dinner at the restaurant, and the food was majorly disappointing.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:[]
+Rather than eating the meat entree being offered, I requested a vegetarian dish.
+gold labels:set([])
+predicted labels:['FOOD#QUALITY']
+Rather than preparing vegetarian dish, the chef presented me with a plate of steamed vegetables (minus sauce, seasoning, or any form or aesthetic presentation).
+gold labels:set(['FOOD#STYLE_OPTIONS', 'FOOD#QUALITY', 'SERVICE#GENERAL'])
+predicted labels:['FOOD#QUALITY']
+I was so stunned, and I left the dinner hungry and majorly disappointing.
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL', 'FOOD#QUALITY']
+This place survives on reputation alone.
+gold labels:set(['RESTAURANT#MISCELLANEOUS'])
+predicted labels:['RESTAURANT#MISCELLANEOUS', 'RESTAURANT#GENERAL']
+I will NEVER return.
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+Best In ALL of NYC
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL', 'FOOD#QUALITY']
+This is the MOST wonderful restaurant in all of New York City, not just Brooklyn...
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+for 7 years they have put out the most tasty, most delicious food and kept it that way...
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY', 'FOOD#STYLE_OPTIONS']
+never swaying, never a bad meal, never bad service...
+gold labels:set(['FOOD#QUALITY', 'RESTAURANT#GENERAL', 'SERVICE#GENERAL'])
+predicted labels:['FOOD#QUALITY', 'SERVICE#GENERAL']
+I'm telling you...
+gold labels:set([])
+predicted labels:['RESTAURANT#GENERAL']
+you should travel from the Bronx to try it...
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:[]
+great food, great wine list, great service in a great neighborhood...
+gold labels:set(['LOCATION#GENERAL', 'DRINKS#STYLE_OPTIONS', 'FOOD#QUALITY', 'SERVICE#GENERAL'])
+predicted labels:['DRINKS#STYLE_OPTIONS', 'DRINKS#QUALITY', 'FOOD#QUALITY', 'SERVICE#GENERAL']
+so delicious!!!!!!
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['RESTAURANT#GENERAL', 'FOOD#QUALITY']
+Patsy's Pizza = true love
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['FOOD#QUALITY']
+Hands down the best pizza on the planet.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+My bf and I go to the walk-up counter and order a pie.
+gold labels:set([])
+predicted labels:[]
+In about 12 minutes, the thing is gone.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:[]
+Need I say more?
+gold labels:set([])
+predicted labels:[]
+great hot dogs..
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['RESTAURANT#GENERAL', 'FOOD#QUALITY', 'SERVICE#GENERAL']
+the hot dogs were juicy and tender inside and had plenty of crunch and snap on the outside.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY', 'FOOD#STYLE_OPTIONS']
+great toppings definitely a place you need to check out for late night munchies or a mid day boost!
+gold labels:set(['RESTAURANT#MISCELLANEOUS', 'FOOD#QUALITY'])
+predicted labels:[]
+great taste
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+Great, original taste.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+For me dishes a little oily, but overall dining experience good.
+gold labels:set(['RESTAURANT#GENERAL', 'FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+Helpful service and average price per dish $10.
+gold labels:set(['FOOD#PRICES', 'SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+The only thing that strikes you is the decor?(not very pleasant).
+gold labels:set(['AMBIENCE#GENERAL'])
+predicted labels:['AMBIENCE#GENERAL']
+great food
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+This place has great indian chinese food.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+The flavors are amazing and the value is phenomenal.
+gold labels:set(['FOOD#PRICES', 'FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+Be prepared to wait, because the place is pretty tiny.
+gold labels:set(['RESTAURANT#MISCELLANEOUS', 'AMBIENCE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+Also, they do not take credit card so come with cash!
+gold labels:set(['RESTAURANT#MISCELLANEOUS'])
+predicted labels:['SERVICE#GENERAL']
+Even though the place is not beautiful, the food speaks for itself.
+gold labels:set(['AMBIENCE#GENERAL', 'FOOD#QUALITY'])
+predicted labels:['AMBIENCE#GENERAL', 'FOOD#QUALITY']
+Best Indian Chinese in the city, by far!
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+AMAZING MY FAVORITE!!!
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL', 'FOOD#QUALITY']
+I have been living in NYC for bit now and I have to say I love to go out and explore the scene.
+gold labels:set([])
+predicted labels:['RESTAURANT#GENERAL', 'FOOD#QUALITY']
+I came across Village Underground by accident, now I go there all the time.
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+The martinis are amazing and very fairly priced.
+gold labels:set(['DRINKS#PRICES', 'DRINKS#QUALITY'])
+predicted labels:['DRINKS#PRICES', 'DRINKS#QUALITY']
+THE SERVICE IS AMAZING, i've had different waiters and they were all nice, which is a rare thing in NYC.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['AMBIENCE#GENERAL', 'FOOD#QUALITY', 'SERVICE#GENERAL']
+The DJ is awesome, I have been there for my birthday and a bunch of other times with friends and I keep going back.
+gold labels:set(['AMBIENCE#GENERAL', 'RESTAURANT#GENERAL'])
+predicted labels:['AMBIENCE#GENERAL', 'RESTAURANT#GENERAL']
+You can get a table without a reservation if you get there early I they don't make you by bottles.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:[]
+Which lets face it....at times it's a good thing.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:[]
+In the end you end up with a fair tab and NOTHING BUT A GREAT TIME!!!
+gold labels:set(['RESTAURANT#PRICES', 'RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+Highly recommended!
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+One of the best, if not THE best, restaurants in Park Slope (and NY in general)
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL', 'FOOD#QUALITY']
+Everything on the menu is great. 
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY', 'FOOD#STYLE_OPTIONS']
+This establishment is the real deal. 
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:[]
+Wish NY had more of these kind of places: intimate, superb food, homey, top notch all the way around, certainly worth the wait.
+gold labels:set(['AMBIENCE#GENERAL', 'FOOD#QUALITY', 'RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL', 'FOOD#QUALITY', 'SERVICE#GENERAL']
+There is "Expensive-but-worth-it" and there is "Expensive-and-WTF"?
+gold labels:set([])
+predicted labels:[]
+This is a twenty-something guy that doesn't mind laying down $300 for a fine and delicious meal for 2 on special occassions.
+gold labels:set([])
+predicted labels:['SERVICE#GENERAL']
+But $500 for a dinner for two that didn't include Wine?
+gold labels:set(['FOOD#PRICES'])
+predicted labels:[]
+Are you freaking kidding me?
+gold labels:set([])
+predicted labels:[]
+Look, the appetizers were really good.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+The entree was also very good.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+Can't argue about that, but they are clearly over priced.
+gold labels:set(['FOOD#PRICES'])
+predicted labels:['RESTAURANT#PRICES']
+What you are paying for is the environment and the name.
+gold labels:set(['RESTAURANT#PRICES', 'RESTAURANT#MISCELLANEOUS', 'AMBIENCE#GENERAL'])
+predicted labels:[]
+Yes, the place is classy and beautiful, but they most certainly target the uber whealthy Not the common joe that wants to go all out every once in a while.
+gold labels:set(['RESTAURANT#PRICES', 'AMBIENCE#GENERAL'])
+predicted labels:['AMBIENCE#GENERAL', 'RESTAURANT#GENERAL']
+$500 included:
+gold labels:set([])
+predicted labels:['FOOD#PRICES', 'DRINKS#PRICES', 'DRINKS#STYLE_OPTIONS', 'RESTAURANT#GENERAL']
+Drinks: 2 glasses of Dom Perignon at $35 each.
+gold labels:set([])
+predicted labels:['DRINKS#PRICES', 'DRINKS#STYLE_OPTIONS', 'DRINKS#QUALITY']
+Starters: Kobe Beef Sashimi.
+gold labels:set([])
+predicted labels:['FOOD#QUALITY']
+Which of course is not real Kobe but Wagyu beef.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+Surprised that a place of this caliber would advertise it as Kobe.
+gold labels:set(['RESTAURANT#MISCELLANEOUS'])
+predicted labels:['RESTAURANT#GENERAL']
+A beef Consomme.
+gold labels:set([])
+predicted labels:['FOOD#QUALITY']
+Entrees: Vanison steak and Bison Steak.
+gold labels:set([])
+predicted labels:['FOOD#QUALITY']
+Vanison was good but not amazing.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+Bison was quite excellent however.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+Dessert: pure disaster.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+Just not good at all.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['RESTAURANT#GENERAL', 'FOOD#QUALITY']
+Some Pineapple covered in a glaze of some kind and some pear tart thing Not impressive at all.
+gold labels:set(['FOOD#QUALITY', 'FOOD#STYLE_OPTIONS'])
+predicted labels:['FOOD#QUALITY']
+I read reviews that called the restaurant too expensive and I thought to myself, but may be it is worth it.
+gold labels:set(['RESTAURANT#PRICES', 'RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+I was wrong.
+gold labels:set([])
+predicted labels:['RESTAURANT#GENERAL']
+The Four Seasons has history and it is a sort of landmark of New York City restaurants, but trust me, they will charge you through the nose just so that you can say "I've been to the four seasons restaurant".
+gold labels:set(['RESTAURANT#PRICES', 'RESTAURANT#MISCELLANEOUS'])
+predicted labels:[]
+I wanted to go there to see if it was worth it and sadly, curiousity got the best of me and I paid dearly for it.
+gold labels:set(['RESTAURANT#PRICES', 'RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL', 'FOOD#QUALITY']
+All in all, the food was great (except for the dessserts).
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+The environment is very upscale and you will see a lot of rich guys with trophy wives or just highly paid escorts.
+gold labels:set(['RESTAURANT#MISCELLANEOUS', 'AMBIENCE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+If you are going for the food, it will not be worth it.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#PRICES', 'FOOD#QUALITY']
+You would think they would make up for it with service, sadly, no.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+Service was just ok, it is not what you'd expect for $500.
+gold labels:set(['RESTAURANT#PRICES', 'SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+Terrible Waste of money.. scammers
+gold labels:set(['RESTAURANT#PRICES', 'RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+I agree that dining at Casa La Femme is like no other dining experience!
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['AMBIENCE#GENERAL']
+BUT not in a good way.
+gold labels:set([])
+predicted labels:['RESTAURANT#GENERAL']
+I am actually offended to have spent so much money on such a bad experience.
+gold labels:set(['RESTAURANT#PRICES', 'RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+I literally just got back home after visiting Casa La Femme and was so offended by my visit felt it necessary to try and warn other diners who value their money and time.
+gold labels:set(['RESTAURANT#PRICES', 'RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+We went to celebrate two birthdays and wanted to do something special and different.
+gold labels:set([])
+predicted labels:[]
+Our visit their to say the least, was an unpleasant and costly experience!
+gold labels:set(['RESTAURANT#PRICES', 'RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+And even more so unpleasant because it was so costly for such an unpleasant experience.
+gold labels:set(['RESTAURANT#PRICES', 'RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL', 'SERVICE#GENERAL']
+We did arrive late for our reservation so I can not complain too much about the wait for a table.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+Although we were told 10-15 minutes and it was more like 45 minutes.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+We were ushered to the bar to wait momentarily and upon arrival were so excited.
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+The place is beautiful!
+gold labels:set(['AMBIENCE#GENERAL'])
+predicted labels:['AMBIENCE#GENERAL', 'RESTAURANT#GENERAL']
+The hostess was very pleasant.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+However, our $14 drinks were were horrible!
+gold labels:set(['DRINKS#PRICES', 'DRINKS#QUALITY'])
+predicted labels:['DRINKS#QUALITY', 'RESTAURANT#GENERAL']
+Once we finally got a table, despite indicating we wanted an alla carte menu we were pushed into a table that was only price fixed!
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+Since we were already waiting so long, we felt we had no other choice but to accept it.
+gold labels:set([])
+predicted labels:['SERVICE#GENERAL']
+Our experience did not ever get any better.
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:[]
+For each course we waited over 1/2 hour to 45 minutes and were never offered a drink.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+We also asked for Hooka six times and the waiter kept telling us one minute and never returning with the Hooka.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+After the 4th time i asked again and the waiter than said after our dinner.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+We asked for beverages and never received them.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+We asked for sides which the waiter than admitted that he forgot to put in that part of our order.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+My chicken was inedible as there were so many fatty lumps which i had to keep spitting out into my napkin.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+I would not expect this for a $55 dinner.
+gold labels:set(['FOOD#PRICES', 'FOOD#QUALITY'])
+predicted labels:['RESTAURANT#GENERAL']
+By the time we finished our dinner we still had not received one beverage NOR hooka!
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:[]
+What we did do was waste 3 hours being trapped in a table waiting and waiting for food and drinks and hooka.. some of which we never received!
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+The only beverage we did receive was water in dirty glasses!
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['DRINKS#QUALITY', 'SERVICE#GENERAL']
+To top it all off.. the main reason we came to your restaurant was for the belly dancers and missed the first show as we were not seated yet and the 2nd belly dancer only danced at two tables in the back of the restaurant and never made it around to the other half of the restaurant.
+gold labels:set(['RESTAURANT#MISCELLANEOUS', 'SERVICE#GENERAL'])
+predicted labels:['AMBIENCE#GENERAL', 'RESTAURANT#GENERAL']
+By the time we left our wallets were empy and so were our stomachs AND we missed the show we were supposed to see following our dinner, which would have been acceptable if we got to enjoy the experience of good food and belly dancers!
+gold labels:set(['RESTAURANT#PRICES', 'RESTAURANT#MISCELLANEOUS', 'FOOD#QUALITY'])
+predicted labels:['SERVICE#GENERAL']
+If it seemed possible to do so while there I would have fought my bill since my dinner portion of my meal was inedible!
+gold labels:set(['RESTAURANT#PRICES', 'FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+I have never left a restaurant feeling as if i was abused, and wasted my hard earned money.
+gold labels:set(['RESTAURANT#PRICES', 'RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+MY husbands birthday and my sons was not as it was intended... and we drove two hours to spend too much money to be treated terribly!
+gold labels:set(['RESTAURANT#PRICES', 'RESTAURANT#GENERAL', 'SERVICE#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+I wish I COULD be refunded!
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+Don't go with a larger group than 4! 
+gold labels:set(['RESTAURANT#MISCELLANEOUS'])
+predicted labels:['RESTAURANT#GENERAL']
+I went here for a family birthday dinner. 
+gold labels:set([])
+predicted labels:[]
+Five of us walked in at approximately 6:20 on a Thursday evening. 
+gold labels:set([])
+predicted labels:[]
+The hostess said "Wow that's a large group, unless you aren't together", to which I replied "no we are, and there will be one more, so a table for six please." 
+gold labels:set([])
+predicted labels:['SERVICE#GENERAL']
+At first we were a little taken aback, as this seemed to present a problem, although the restaurant looked fairly empty, but they hastily put the table together for us.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['RESTAURANT#MISCELLANEOUS', 'SERVICE#GENERAL']
+The menu is fairly simple without much descriptions. 
+gold labels:set(['FOOD#STYLE_OPTIONS'])
+predicted labels:['FOOD#QUALITY', 'FOOD#STYLE_OPTIONS']
+There was no tap beer that evening, which was a disappointment. 
+gold labels:set(['DRINKS#STYLE_OPTIONS'])
+predicted labels:['DRINKS#STYLE_OPTIONS', 'DRINKS#QUALITY']
+Not much of a selection of bottled beer either, we went with Brahma. 
+gold labels:set(['DRINKS#STYLE_OPTIONS'])
+predicted labels:['DRINKS#PRICES', 'DRINKS#STYLE_OPTIONS', 'DRINKS#QUALITY', 'FOOD#STYLE_OPTIONS']
+The appetizers we ordered were served quickly - an order of fried oysters and clams were delicious but a tiny portion (maybe 3 of each). 
+gold labels:set(['SERVICE#GENERAL', 'FOOD#QUALITY', 'FOOD#STYLE_OPTIONS'])
+predicted labels:['FOOD#QUALITY', 'FOOD#STYLE_OPTIONS']
+The lobster knuckles (special of the day) were ok, but pretty tasteless.
+gold labels:set(['FOOD#QUALITY', 'FOOD#STYLE_OPTIONS'])
+predicted labels:['FOOD#QUALITY']
+I believe there were 2 shrimp in the "salt encrusted shrimp" appetizer. 
+gold labels:set(['FOOD#STYLE_OPTIONS'])
+predicted labels:['FOOD#QUALITY']
+After we ate our appetizers (which took all of 8 minutes) we ordered another round of Brahma's - and tried to stall a little as we waited for our sixth dinner member. 
+gold labels:set([])
+predicted labels:[]
+The waitress appeared and asked us if we wanted to go ahead and order. 
+gold labels:set([])
+predicted labels:['SERVICE#GENERAL']
+We replied that we would like to wait 5 more minutes if that was okay. 
+gold labels:set([])
+predicted labels:['SERVICE#GENERAL']
+She replied "well it would be more convenient for us if you ordered now, since you are a larger party, and it might get crowded." 
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+We called the other person who was very close by, and she told us to order for her, so we did. 
+gold labels:set([])
+predicted labels:['SERVICE#GENERAL']
+The food arrived in about 15 minutes. 
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+I had the Thai style Fried Sea Bass...which was very good. 
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+Everyone seemed generally happy with their food, except my brother who had the grilled Mahi Mahi, seemingly drenched in Grapfruit Juice! 
+gold labels:set(['FOOD#QUALITY', 'FOOD#STYLE_OPTIONS'])
+predicted labels:['FOOD#QUALITY']
+I heard the lobster roll was excellent. 
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+They seemed to continue to rush us along, taking plates without asking if we were done (my sister still had her fork in hand). 
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+All in all the food was good - a little on the expensive side, but fresh. 
+gold labels:set(['FOOD#PRICES', 'FOOD#QUALITY'])
+predicted labels:['FOOD#PRICES', 'FOOD#QUALITY']
+Service not the friendliest to our "large party"! 
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+Probably would not go back here.
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+Great Indian food
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+I lived on 50th st, and wanted Indian one day so decided to check this place out.
+gold labels:set([])
+predicted labels:[]
+Food was amazing - I love Indian food and eat it quite regularly, but I can say this is one of the best I've had.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+Very "normal Indian food", but done really well.
+gold labels:set(['FOOD#QUALITY', 'FOOD#STYLE_OPTIONS'])
+predicted labels:['FOOD#QUALITY', 'SERVICE#GENERAL']
+I have it a 4 instead of 5 because of the price (just chicken tikka masala - no bread of rice - is $25), which I would expect at a upscale Indian restaurant but this place doesn't have an upscale feel.
+gold labels:set(['FOOD#PRICES', 'RESTAURANT#PRICES', 'AMBIENCE#GENERAL', 'RESTAURANT#GENERAL'])
+predicted labels:['FOOD#QUALITY']
+Also, waiters try to push more food on you, like suggest things as if they are complimentary when they actually cost $.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['FOOD#PRICES', 'FOOD#QUALITY', 'SERVICE#GENERAL']
+I don't appreciate places or people that try to drive up the bill without the patron's knowledge so that was a huge turnoff (more than the price).
+gold labels:set(['RESTAURANT#PRICES', 'SERVICE#GENERAL'])
+predicted labels:[]
+But if you're prepared to spend some $ and remember to ask if something they offer is complimentary, then this is the place to go for Indian food
+gold labels:set(['RESTAURANT#PRICES', 'FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY', 'SERVICE#GENERAL']
+One of the BEST
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL', 'FOOD#QUALITY']
+Bukhara Grill, the tagline says it all.. "INDIAN SPICE RAVE"
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:[]
+My GF and I dine at Bukhara often as she lives near it.
+gold labels:set([])
+predicted labels:[]
+The lunch buffet is expensive but is deff worth it.
+gold labels:set(['FOOD#PRICES', 'FOOD#QUALITY'])
+predicted labels:['FOOD#PRICES']
+We go often for lunch and the place is packed.
+gold labels:set([])
+predicted labels:['RESTAURANT#GENERAL']
+We have gone for dinner only a few times but the same great quality and service is given.
+gold labels:set(['FOOD#QUALITY', 'SERVICE#GENERAL'])
+predicted labels:['FOOD#QUALITY', 'SERVICE#GENERAL']
+Bukhara is on my top 5 Indian places in NYC
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+Wretched and retching
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['FOOD#STYLE_OPTIONS', 'AMBIENCE#GENERAL', 'RESTAURANT#GENERAL', 'SERVICE#GENERAL']
+This will be only the third online review I have ever made about a restaurant in my life.
+gold labels:set([])
+predicted labels:[]
+They have all been tonight and they have all been about the same restaurant.
+gold labels:set([])
+predicted labels:['RESTAURANT#GENERAL']
+I have never been so disgusted by both food an service.
+gold labels:set(['FOOD#QUALITY', 'SERVICE#GENERAL'])
+predicted labels:['FOOD#QUALITY', 'SERVICE#GENERAL']
+For starters they delivered us someone else's order.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+Fine, I wont hang you for that.
+gold labels:set([])
+predicted labels:['FOOD#QUALITY']
+However, once I received my predictably mediocre order of what Dokebi thinks passes as Korean fair, (sometimes you have to settle when it's your only option), I got through about half my kimchee before I found a piece of random lettuce accompanied by a far more disgusting, slimy, clearly bad piece of fish skin.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+Not one to jump to complaints (hence my lack of previous online reviewing), I called the restaurant to give them a heads up that their kitchen might want to check the cleanliness of their prep stations.
+gold labels:set([])
+predicted labels:['SERVICE#GENERAL']
+My main concern was the sanity of the food that was being sent out to myself and others, but I would be lying is I said that as someone who has worked in restaurants since the age of fifteen I was expecting at least a minimal effort on the part of the restaurant to amend the situation.
+gold labels:set(['FOOD#QUALITY', 'SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+None was made so i hung up.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['FOOD#QUALITY']
+Less than three minutes passed before I found myself doubled over the toilet.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:[]
+My girlfriend, being slightly more aggressive, and having been equally disgusted causing her to throw out the remainder of her barely eaten meal, called back only to be informed that I was probably wrong and that it was most likely an oyster, and that we were also blacklisted from their restaurant.
+gold labels:set(['FOOD#QUALITY', 'SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+Not only have I worked in restaurants for many years, I am now in culinary school, I am a huge lover of oysters and fish, and my girlfriend is half Korean!
+gold labels:set([])
+predicted labels:['RESTAURANT#GENERAL', 'FOOD#QUALITY']
+We know the difference between and oyster and bad fish.
+gold labels:set([])
+predicted labels:['FOOD#QUALITY', 'SERVICE#GENERAL']
+It wasn't as if this restaurant had any major bragging points before hand, but now it's simply repulsive.
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+Eat at your own risk.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['RESTAURANT#GENERAL']
+Gorgeous place ideal for a romantic dinner
+gold labels:set(['RESTAURANT#MISCELLANEOUS', 'AMBIENCE#GENERAL'])
+predicted labels:['RESTAURANT#MISCELLANEOUS', 'AMBIENCE#GENERAL', 'RESTAURANT#GENERAL']
+I took my boyfriend for a dinner on saturday night.
+gold labels:set([])
+predicted labels:[]
+I book a gorgeous white organza tent which included a four course prix fix menu which we enjoyed a lot.
+gold labels:set(['AMBIENCE#GENERAL', 'FOOD#QUALITY'])
+predicted labels:[]
+The service was spectacular as the waiter knew everything about the menu and his recommendations were amazing!
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['FOOD#QUALITY', 'SERVICE#GENERAL']
+I completely recommend Casa La Femme for any special occasion and to REALLY impress your date.
+gold labels:set(['RESTAURANT#MISCELLANEOUS'])
+predicted labels:['RESTAURANT#MISCELLANEOUS']
+More Williamsburg Garbage
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+My wife and I visited Dokebi tonight.
+gold labels:set([])
+predicted labels:[]
+We ordered dosut bibimbap and nakgi-bokum.
+gold labels:set([])
+predicted labels:[]
+The dishes came out around 5 minutes apart.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:[]
+The bibimbap was average, but the stone bowl wasn't even close to sizzling.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+Too bad I had paid an extra $2 for the stone bowl.
+gold labels:set(['FOOD#PRICES'])
+predicted labels:['FOOD#QUALITY']
+The nakgi-bokum was horrible.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['RESTAURANT#GENERAL']
+Easily the worst stir-fried squid I've ever tasted.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+The sauce tasted more like Chinese fast food than decent Korean.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+The side dishes were passable, and I did get a refill upon request.
+gold labels:set(['FOOD#QUALITY', 'FOOD#STYLE_OPTIONS'])
+predicted labels:['FOOD#QUALITY', 'FOOD#STYLE_OPTIONS']
+The real problem I had with this place was the complete lack of service.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['AMBIENCE#GENERAL', 'SERVICE#GENERAL']
+I mentioned the squid dish wasn't very good when the waitress visited.
+gold labels:set([])
+predicted labels:['FOOD#QUALITY']
+She just nodded and walked off.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+There were no communications issues either, as she spoke perfect English.
+gold labels:set([])
+predicted labels:['SERVICE#GENERAL']
+As to my comment about the food, no apology or acknowledgment was made.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['FOOD#QUALITY', 'SERVICE#GENERAL']
+My wife had barely touched that mess of a dish.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+We were charged full price.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['RESTAURANT#PRICES', 'SERVICE#GENERAL']
+Lives up to the hype
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#MISCELLANEOUS', 'LOCATION#GENERAL', 'RESTAURANT#GENERAL']
+We've lived around the corner from this place for over a year and finally had dinner there.
+gold labels:set([])
+predicted labels:[]
+We've tried before but it always packed and doesn't take reservations.
+gold labels:set(['RESTAURANT#MISCELLANEOUS'])
+predicted labels:['SERVICE#GENERAL']
+It was well worth the wait.
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+The wife had the risotto which was amazing.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+It doesn't look appetizing as it's covered in squid ink and it turns your lips and teeth black, but the taste was phenomenal.
+gold labels:set(['FOOD#QUALITY', 'FOOD#STYLE_OPTIONS'])
+predicted labels:['FOOD#QUALITY']
+The farro salad and the mashed yukon potatoes were also extremely tasty.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+i love margherita pizza – i looove east village pizza
+gold labels:set(['FOOD#QUALITY', 'RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+Love this place, every time we are in the city this is one of the places we always go.
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+A quintessential slice of NYC pizza.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+The crust has a great bite and a good chew, the sauce is light with a nice acidity to it, the salt from the cheese is great, really heightens the flavor of all the other components.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY', 'FOOD#STYLE_OPTIONS']
+Personally I like the margherita pizza better, but they are all good.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+Possibly the Most Romantic Restaurant in the City
+gold labels:set(['AMBIENCE#GENERAL'])
+predicted labels:['AMBIENCE#GENERAL', 'RESTAURANT#GENERAL']
+This is undoubtedly my favorite modern Japanese brasserie (that don’t serve sushi), and in my opinion, one of the most romantic restaurants in the city!
+gold labels:set(['AMBIENCE#GENERAL', 'RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+Not only is it an adventure getting to this somewhat hidden spot, once you enter the unmarked wooden doors, the zen and intimate décor will make you feel like you’re no longer in the city.
+gold labels:set(['LOCATION#GENERAL', 'AMBIENCE#GENERAL'])
+predicted labels:['AMBIENCE#GENERAL']
+If you’re planning to come here, make sure that your date is someone whom you really like since you’ll be ushered to private booths where there will be no people or food watching (choose the ones on the ground level that have glass ceilings so you may see the stars in the sky!).
+gold labels:set(['AMBIENCE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+It’s just you and your date and an occasional cute ‘excuse me’ before the waiter opens the little curtain to your booth!
+gold labels:set(['AMBIENCE#GENERAL', 'SERVICE#GENERAL'])
+predicted labels:['AMBIENCE#GENERAL', 'SERVICE#GENERAL']
+My party had the BBE $29 fixe prix menu, which was such a wonderful deal since it also came with a flight of sake!
+gold labels:set(['FOOD#PRICES', 'FOOD#STYLE_OPTIONS'])
+predicted labels:['SERVICE#GENERAL']
+I never used to be a fan of sakes but am lately experimenting with it a lot more and am acquiring a better taste of it.
+gold labels:set([])
+predicted labels:['FOOD#QUALITY']
+We started off with a delightful sashimi amuse bouche.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+Our first course was Tuna Sashimi with Green Yuzu Sauce.
+gold labels:set([])
+predicted labels:['FOOD#QUALITY']
+I picked the Grilled Black Cod as my entree, which I absolutely devoured while someone commented that the Grilled Salmon dish was better.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+The entrees were served with miso soup and rice.
+gold labels:set(['FOOD#STYLE_OPTIONS'])
+predicted labels:['FOOD#QUALITY']
+The sake’s complimented the courses very well and is successfully easing me into the sake world.
+gold labels:set(['DRINKS#QUALITY'])
+predicted labels:['DRINKS#PRICES', 'DRINKS#STYLE_OPTIONS', 'DRINKS#QUALITY']
+For desserts, we tried the frozen black sesame mousse (interesting but not extraordinary) and matcha (powdered green tea) and blueberry cheesecake, which was phenomenal.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+Maybe it was the great company (I had friends visiting from Philly – yes, it was not a date this time) or the super reasonable price point, but I just can’t say enough good things about this brasserie.
+gold labels:set(['RESTAURANT#PRICES', 'RESTAURANT#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+I don’t usually visit the same establishment more than once, what more twice, but I’ll come to Zenkichi anytime for a quiet, unhurried and memorable dinner.
+gold labels:set(['AMBIENCE#GENERAL', 'RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+Terrible would be a compliment!
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+The service leaves much to be desired, from feeling like you are rushed the place your order, to being ignored the rest of the night.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+We were 10 people celebrtating a birthday, we sat in the tent.
+gold labels:set([])
+predicted labels:[]
+We paid a fixed pricce but got nothing!!
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+We never ate because by close to 2 in the monring we were not served and were too upset ad tired to start eating.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:[]
+They are extremely rude, not even apologizing for the horrible service we got and handing us a bill well over $500 for some drinks adn their pita bread!
+gold labels:set(['FOOD#PRICES', 'DRINKS#PRICES', 'SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+Stay away
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+Great Shabu Shabu
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['RESTAURANT#MISCELLANEOUS', 'RESTAURANT#GENERAL', 'FOOD#QUALITY']
+I go here at least once every other week, particularly when it's cold!
+gold labels:set([])
+predicted labels:['RESTAURANT#GENERAL']
+I love it.
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+To be honest we only ever eat the Shabu Shabu.
+gold labels:set([])
+predicted labels:['FOOD#QUALITY']
+I tried a couple other dishes but wasn't too impressed.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+But for the Shabu Shabu, you won't find much better in NY.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+The meat is fresh, the sauces are great, you get kimchi and a salad free with your meal and service is good too.
+gold labels:set(['FOOD#PRICES', 'FOOD#STYLE_OPTIONS', 'FOOD#QUALITY', 'SERVICE#GENERAL'])
+predicted labels:['FOOD#STYLE_OPTIONS', 'FOOD#QUALITY', 'SERVICE#GENERAL']
+Dokebi gives Williamsburg the right one-two punch of classic Korean food and fusion twists like pork belly tacos.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+The hot dogs are good, yes, but the reason to get over here is the fantastic pork croquette sandwich, perfect on its supermarket squishy bun.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY', 'FOOD#STYLE_OPTIONS']
+Restaurant with a view
+gold labels:set(['LOCATION#GENERAL'])
+predicted labels:['LOCATION#GENERAL', 'AMBIENCE#GENERAL', 'RESTAURANT#GENERAL']
+Celebrated my fathers birthday here.
+gold labels:set([])
+predicted labels:[]
+The food tasted very good.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+The family seafood entree was very good.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+The main entree was also very good.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+We order a bit of everything on the menu.
+gold labels:set([])
+predicted labels:['FOOD#STYLE_OPTIONS']
+Price is high but the food is good, so I would come back again.
+gold labels:set(['FOOD#PRICES', 'RESTAURANT#GENERAL', 'FOOD#QUALITY'])
+predicted labels:['RESTAURANT#PRICES', 'FOOD#QUALITY']
+This place doesn't make any sense
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#MISCELLANEOUS', 'AMBIENCE#GENERAL', 'RESTAURANT#GENERAL']
+Just want to warn you all - don't waste your time and money.
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:[]
+This place has totally weird decor, stairs going up with mirrored walls - I am surprised how no one yet broke their head or fall off the stairs - mirrored walls make you dizzy and delusional...
+gold labels:set(['AMBIENCE#GENERAL'])
+predicted labels:['AMBIENCE#GENERAL']
+This place is not inviting and the food is totally weird.
+gold labels:set(['AMBIENCE#GENERAL', 'FOOD#QUALITY'])
+predicted labels:['AMBIENCE#GENERAL', 'FOOD#QUALITY']
+The concept of japanese tapas is newly created and clearly doesn't work.
+gold labels:set(['FOOD#STYLE_OPTIONS'])
+predicted labels:['RESTAURANT#MISCELLANEOUS']
+The food they serve is not comforting, not appetizing and uncooked.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+Good Food
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+I went here with my boyfriend for our anniversary.
+gold labels:set([])
+predicted labels:[]
+The food was great and tasty, but the sitting space was too small, I don't like being cramp in a corner.
+gold labels:set(['AMBIENCE#GENERAL', 'FOOD#QUALITY'])
+predicted labels:['FOOD#PRICES', 'AMBIENCE#GENERAL', 'FOOD#QUALITY', 'FOOD#STYLE_OPTIONS']
+Over all it was a very nice romantic place .
+gold labels:set(['AMBIENCE#GENERAL', 'RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#MISCELLANEOUS', 'AMBIENCE#GENERAL']
+I would recommend to ask for a bigger sitting area when you make a reservation (if possible)
+gold labels:set([])
+predicted labels:[]
+Loved it
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['AMBIENCE#GENERAL', 'RESTAURANT#GENERAL']
+A coworker and I tried Pacifico after work a few Fridays and loved it.
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:[]
+The atmosphere was great.
+gold labels:set(['AMBIENCE#GENERAL'])
+predicted labels:['AMBIENCE#GENERAL']
+The food we ordered was excellent, although I wouldn't say the margaritas were anything to write home about.
+gold labels:set(['DRINKS#QUALITY', 'FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+Our waitress wasn't mean, but not especially warm or attentive either.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+I must say I am surprised by the bad reviews of the restaurant earlier in the year, though.
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+Maybe it has improved since then?
+gold labels:set([])
+predicted labels:['RESTAURANT#GENERAL']
+Regardless, we'll be back and can't wait to visit in the summer to take advantage of the patio.
+gold labels:set(['AMBIENCE#GENERAL', 'RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+Dumbfoundingly Poor
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['AMBIENCE#GENERAL', 'SERVICE#GENERAL', 'RESTAURANT#GENERAL', 'FOOD#QUALITY', 'FOOD#STYLE_OPTIONS', 'RESTAURANT#PRICES']
+This was, from start to finish, a mind-bogglingly uncomfortable experience.
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['FOOD#QUALITY']
+Lexicographers take note: a new and fascinating definition of rudeness is alive and flourishing right here in Brooklyn.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+The servers at Flatbush Farm appear to have perfected that ghastly technique of making you feel guilty and ashamed for deigning to attract their attention.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+Polite acknowledgement is out;
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+supercilious scorn is in.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+And how many times can you pick up the same perfectly aligned set of napkins, inspect them vapidly and plonk them down in exactly the same place instead of venturing a glance at people who are there to help you make the rent?
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['RESTAURANT#MISCELLANEOUS', 'RESTAURANT#GENERAL']
+A different server enhanced the fun, dumping our entrees in front of us halfway through our appetizer (which was delicious).
+gold labels:set(['FOOD#QUALITY', 'SERVICE#GENERAL'])
+predicted labels:['FOOD#QUALITY', 'SERVICE#GENERAL']
+Overall the food quality was pretty good, though I hear the salmon is much better when it hasn't sat cooling in front of the guest.
+gold labels:set(['FOOD#QUALITY', 'SERVICE#GENERAL'])
+predicted labels:['FOOD#QUALITY']
+The place has a nice fit-out, some attractive furnishings and, from what I could tell, a reasonable wine list (I was given the food menu when I asked for the carte des vins)
+gold labels:set(['DRINKS#STYLE_OPTIONS', 'AMBIENCE#GENERAL', 'SERVICE#GENERAL'])
+predicted labels:['AMBIENCE#GENERAL', 'FOOD#QUALITY', 'SERVICE#GENERAL']
+At $120 for two people, however, this in no way represents value, unless you're looking to pay by the hour for passive-aggressive torture.
+gold labels:set(['RESTAURANT#PRICES', 'RESTAURANT#GENERAL', 'SERVICE#GENERAL'])
+predicted labels:[]
+On that scale, it's a world-beater.
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:[]
+How is this palce still open?
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+I honestly don't even know where to begin.
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:[]
+My boyfriend and I are avid restaurant goers, and we are always on the lookout for new places and our friend had recommended Flatbush Farms.
+gold labels:set([])
+predicted labels:[]
+We arrived and were seated immediately, which made us both happy.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+We ordered our appetizers, I ordered the chicken and my boyfriend the salmon.
+gold labels:set([])
+predicted labels:['FOOD#QUALITY']
+Everything was going good until we got our meals.
+gold labels:set(['FOOD#QUALITY', 'RESTAURANT#GENERAL'])
+predicted labels:['FOOD#QUALITY']
+I took one look at the chicken and I was appalled.
+gold labels:set(['FOOD#STYLE_OPTIONS'])
+predicted labels:['FOOD#QUALITY']
+It was served with skin, over a bed of extremely undercooked spinach and mashed potatoes.
+gold labels:set(['FOOD#QUALITY', 'FOOD#STYLE_OPTIONS'])
+predicted labels:['FOOD#QUALITY']
+My boyfriend asked me if I wanted to switch and eat his salmon instead, while he de-skinned the chicken so that I could enjoy the white meat.
+gold labels:set([])
+predicted labels:['FOOD#QUALITY']
+I took one bite from the $24 salmon, and I have never, in the 17 years I have been going to restaurants tasted salmon as fishy, as dry, and as bland as the one in Flatbush Farms.
+gold labels:set(['FOOD#PRICES', 'FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+At this point, the waitress comes over and asks us if everything was okay, I was literally so shocked that I was speechless and didn't say anything, and guess what, the waitress WALKED away.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+So, I switch with my boyfriend again to see if maybe I could stomach the meat and spinach again, but the spinach was so undercooked that I just could not bite through it.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+I couldn't even enjoy the mashed potatoes because it was hidden completely under the chicken and spinach.
+gold labels:set(['FOOD#STYLE_OPTIONS'])
+predicted labels:['FOOD#QUALITY']
+So I decide to report back to the waitress because it was completely inedible.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['SERVICE#GENERAL']
+Guess what, I waited for TWENTY minutes before she came over and when she finally did, she says, "oh well, I wish you would have said something earlier" No apology, nothing.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+After that she simply took our plates, walked away, came back another TWENTY minutes later with the bill and the chicken on it!!!!!!!!!!!!
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+No desert menu, no apology, nothing!!!!!!
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['FOOD#QUALITY']
+I was literally going to explode, but instead, my boyfriend took the bill and went to find the manager.
+gold labels:set([])
+predicted labels:[]
+This is where it really really gets bad: the manager said, there is absolutely nothing we can do, it's a matter of taste that she didn't like it, and I cannot comp it.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['FOOD#QUALITY', 'SERVICE#GENERAL']
+Again, no apology, no is there anything else I can get you, no can I get you a drink to make up for it, nothing!!!!
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['FOOD#QUALITY', 'SERVICE#GENERAL']
+We refused to pay for it because at this point it had nothing to do with the food anymore.
+gold labels:set([])
+predicted labels:['FOOD#QUALITY', 'SERVICE#GENERAL']
+The level of rudeness was preposterous.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:[]
+The manager came to the table and said we can do what we want, so we paid for what we did enjoy, the drinks and appetizers, and walked out.
+gold labels:set(['DRINKS#QUALITY', 'FOOD#QUALITY', 'SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+I HAVE NEVER EVER HAD SUCH AN UNPLEASANT EXPERIENCE.
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+THIS STAFF SHOULD BE FIRED.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['FOOD#QUALITY', 'SERVICE#GENERAL']
+cirspy crust margherita pizza
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+we have been there 3 times since last week we alked it by chance first day the manager offerd us the margherita pizza adn we said yes.
+gold labels:set([])
+predicted labels:['SERVICE#GENERAL']
+it was really good pizza.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+the crust was imazingly cooked well and pizza was fully loaded:):):)
+gold labels:set(['FOOD#QUALITY', 'FOOD#STYLE_OPTIONS'])
+predicted labels:['FOOD#QUALITY']
+you know what i mean all the positives things happening there made mw write this review.
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['FOOD#QUALITY', 'SERVICE#GENERAL']
+Single Worst Restaurant in Manhattan
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+I'll being with a couple of positives: cool decor, good pita and hummus, and grilled octopus that was actually pretty tasty.
+gold labels:set(['AMBIENCE#GENERAL', 'FOOD#QUALITY'])
+predicted labels:['AMBIENCE#GENERAL', 'FOOD#QUALITY']
+Moving on.
+gold labels:set([])
+predicted labels:[]
+If I could give 0 stars I would do so for this place.
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+The reason there are 4 different results on citysearch for the same place is because they keep trying to start a new thread so they can stock it with positive reviews.
+gold labels:set(['RESTAURANT#MISCELLANEOUS'])
+predicted labels:['RESTAURANT#GENERAL']
+Well...they can run but they can't hide.
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+I live in the West Village and I've been to a lot of restaurants.
+gold labels:set([])
+predicted labels:[]
+This place...god where do i begin.
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+It is quite a spectacular scene i'll give them that.
+gold labels:set(['AMBIENCE#GENERAL'])
+predicted labels:[]
+The decor however seems to be the distraction so you won't notice that you just payed 300 bucks for some cold eggplant that took 2 FRICKIN HOURS TO COME!!!!
+gold labels:set(['FOOD#PRICES', 'AMBIENCE#GENERAL', 'FOOD#QUALITY', 'SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+How this place survives the competitive west village market in this economy, or any other for that matter, is beyond me.
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#PRICES', 'RESTAURANT#GENERAL']
+Great Hot Dogs!
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['RESTAURANT#GENERAL', 'FOOD#QUALITY']
+I've made the trip out here a few times with a friend who lives nearby (I live on UWS).
+gold labels:set([])
+predicted labels:[]
+Though it's been crowded most times I've gone here, Bark always delivers on their food.
+gold labels:set(['RESTAURANT#MISCELLANEOUS', 'FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY', 'SERVICE#GENERAL']
+The hot dogs are top notch, and they're Slamwich is amazing!
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+Going to Bark is always worth the train ride, and will make your tongue and belly very happy!
+gold labels:set(['FOOD#QUALITY', 'RESTAURANT#GENERAL'])
+predicted labels:['FOOD#QUALITY']
+Only complaint is the pricing--I believe it would be more reasonable to pay a dollar less on each item listed on the menu.
+gold labels:set(['FOOD#PRICES'])
+predicted labels:['RESTAURANT#PRICES', 'SERVICE#GENERAL']
+But nonetheless--great spot, great food.
+gold labels:set(['FOOD#QUALITY', 'RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#PRICES', 'RESTAURANT#GENERAL']
+Fabulous food - if the front of house staff don't put you off – 
+gold labels:set(['FOOD#QUALITY', 'SERVICE#GENERAL'])
+predicted labels:['FOOD#QUALITY', 'SERVICE#GENERAL']
+We live nearby BFC. 
+gold labels:set([])
+predicted labels:[]
+It's a little out of our price range for dining there except on special occasions, but we've eaten there 6 times in the last 2 years. 
+gold labels:set(['RESTAURANT#PRICES'])
+predicted labels:[]
+Each time we've been, the front of house staff (not the waiters - they're fantastic - but the people who greet and seat you) has been so hideous to us that were it not for the exceptional fish dishes I would never return. 
+gold labels:set(['FOOD#QUALITY', 'SERVICE#GENERAL'])
+predicted labels:['FOOD#QUALITY', 'SERVICE#GENERAL']
+As BFC doesn't take reservations you almost always have to wait by the bar - and be abused by the front of house staff until you are seated, which can be over an hour later!
+gold labels:set(['RESTAURANT#MISCELLANEOUS', 'SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+The frizzy retro girl (with winged/ Dame Edna glasses) will yell at you if you try to order a drink. 
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:[]
+I was almost amused by the fact that she was turning away customers at 9pm on a Friday night because she "had a BBQ to go to" that night - WTF??
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['RESTAURANT#MISCELLANEOUS']
+I'd be horrified if my staff were turning away customers so early and so rudely!
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+There's another girl who I can't describe, she is about 5'6" with brown hair, who eavesdrops on your conversation and chimes in - except she only hears the last part of what you said, so her uninvited opinions are often out of context and nothing to do with what you're *really* talking about. 
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:[]
+I'm a friendly person, so I wouldn't mind had she not been so nasty and gotten so personal. 
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+Again, I'd be super upset if that were my employee.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+Considering you will spend at least $60 a head, I expect better service. 
+gold labels:set(['RESTAURANT#PRICES', 'SERVICE#GENERAL'])
+predicted labels:[]
+So, if you're walking by and thinking about dining, you might want to see who's going to be seating you first...
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:[]
+Maitre-D-"Eat and get out"
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:[]
+My family ate here last weekend.
+gold labels:set([])
+predicted labels:[]
+The food and service were fine, however the maitre-D was incredibly unwelcoming and arrogant.
+gold labels:set(['FOOD#QUALITY', 'SERVICE#GENERAL'])
+predicted labels:['FOOD#QUALITY', 'SERVICE#GENERAL']
+While finishing our meals which included a high-end bottle of wine, our son's fiance joined us for a glass of wine and dessert.
+gold labels:set(['DRINKS#QUALITY'])
+predicted labels:['DRINKS#QUALITY']
+This guy refused to seat her and she left, followed shortly by the four of us, but not before I told him that in my 40 years of world travel, including Paris, that I had never seen such a display of bad behavior by a frontman in a restaurant.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+His response was smug, arrogant, and condescending, totally consistent with his deportment on display all evening.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+A word to the wise: you can't dine here and disturb the maitre-D's sense of " table turnover", as whacked as it is, or else.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+If you go here, do it on his off-night.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+Best meal in a long time!
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+Mussles and calamari were superb Saturday evening.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+I had the Lamb special which was perfect.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+My father had the flank steak which was very good, and my mother had the swordfish.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+The Four Seasons restaurant is a great experience.
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+The food is great and the environment is even better.
+gold labels:set(['AMBIENCE#GENERAL', 'FOOD#QUALITY'])
+predicted labels:['AMBIENCE#GENERAL', 'FOOD#QUALITY']
+Everyone must come here at least once.
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+Highly recommend it!
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+Taking Hot Dogs to the next level
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['SERVICE#GENERAL']
+At first glance this place seems a bit pricey for a hot dog joint, but at Bark you don't just get your average hot dog.
+gold labels:set(['RESTAURANT#PRICES', 'FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY', 'SERVICE#GENERAL']
+Here the hot dog is elevated to the level of a real entree with numerous variations available.
+gold labels:set(['FOOD#QUALITY', 'FOOD#STYLE_OPTIONS'])
+predicted labels:['FOOD#QUALITY', 'FOOD#STYLE_OPTIONS']
+Great Atmosphere
+gold labels:set(['AMBIENCE#GENERAL'])
+predicted labels:['AMBIENCE#GENERAL']
+Went to this place this place on a real cold night and needed a quick meal.
+gold labels:set([])
+predicted labels:[]
+I highly recommend the fish tacos, everything else was ok.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+Cool atmosphere, the fire place in the back really ads to it but needs a bit more heat throughout on a cold night.
+gold labels:set(['AMBIENCE#GENERAL'])
+predicted labels:['AMBIENCE#GENERAL']
+Poor service and management
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+Don’t go to this place!
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+Had an awful experience at Casa la Femme on a Saturday dinner.
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+Appetizers took nearly an hour.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:[]
+When the main course finally arrived (another 45mins) half of our order was missing.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:[]
+Never got an explanation as to what was going on.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:[]
+The manager was rude and handled the situation extremely poorly.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+When we threatened to leave, we were offered a meager discount even though half the order was missing.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+On the way out, we heard of other guests complaining about similar issues.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+Can’t believe how an expensive NYC restaurant can be so disrespectful to its clients.
+gold labels:set(['RESTAURANT#PRICES', 'SERVICE#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+What a hassle!
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+The food is very good, but not outstanding.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+There is no way it justifies the accolades it receives, the attitude of the staff or the wait for a table.
+gold labels:set(['FOOD#QUALITY', 'SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+On our last visit, they skipped over our name on the list, leaving us waiting an extra hour for a table.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:[]
+Mistakes happen, but they are usually accompanied by an apology, perhaps even a glass of wine...but not the grunt that we received from the Al Di La staff.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+Expensive
+gold labels:set(['RESTAURANT#PRICES'])
+predicted labels:['FOOD#PRICES', 'RESTAURANT#PRICES']
+I went there after hearing how great it was.
+gold labels:set([])
+predicted labels:['RESTAURANT#GENERAL']
+Wow.
+gold labels:set([])
+predicted labels:['RESTAURANT#GENERAL']
+The bread was stale, the salad was overpriced and empty.
+gold labels:set(['FOOD#PRICES', 'FOOD#QUALITY', 'FOOD#STYLE_OPTIONS'])
+predicted labels:['FOOD#QUALITY']
+The pasta was well cooked, didn't have enough sauce though or flavor.
+gold labels:set(['FOOD#QUALITY', 'FOOD#STYLE_OPTIONS'])
+predicted labels:['FOOD#QUALITY']
+So rude!!!
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL', 'SERVICE#GENERAL']
+I went with JWILS.
+gold labels:set([])
+predicted labels:[]
+Her review is above.
+gold labels:set([])
+predicted labels:[]
+I was one of the people that went for this horrible experience.
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL']
+My friend is 100% right in the experience we had.
+gold labels:set([])
+predicted labels:[]
+The hostess was rude and I got a distinct feeling that they did not want to serve us.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+The only thing that my friend left out is that when we sat down at the bar the bartender disappeared.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+I asked for a menu and the same waitress looked at my like I was insane.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+I was shocked that my friends wanted to stay after the waitress said, "can I help you" and "how many are in your party."
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+What?
+gold labels:set([])
+predicted labels:['RESTAURANT#GENERAL']
+The three of us standing in front of her should have been an indication of how many of us there were.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+We didn't look like the other patrons in there so unfortunately I think that may have been part of the problem.
+gold labels:set(['RESTAURANT#MISCELLANEOUS'])
+predicted labels:[]
+Shame on this place for the horrible rude staff and non-existent customer service.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+bad staff
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+I generally like this place.
+gold labels:set(['RESTAURANT#GENERAL'])
+predicted labels:[]
+The food is good.
+gold labels:set(['FOOD#QUALITY'])
+predicted labels:['FOOD#QUALITY']
+The design of the space is good.
+gold labels:set(['AMBIENCE#GENERAL'])
+predicted labels:['AMBIENCE#GENERAL']
+But the service is HORRID!
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+I was there for brunch recently, and we were tag teamed by a waitress and a waiter.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+The waiter delivered our food while holding what appeared to be a plastic bag of garbage in one hand.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+I can't believe that it was, but please put the bag down before delivering food!
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:[]
+The waitress came to check in on us every few minutes, and began to clear the plates while half of us were still eating (a big pet peeve of mine that happens almost everywhere, so I try to ignore it).
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+I couldn't ignore the fact that she reach over the plate of one of my friends, who was in mid bite, to clear the table.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:[]
+She then put the check down without asking if we were done, and came to check on the bill every two minutes, even though we were one of three occupied tables.
+gold labels:set(['SERVICE#GENERAL'])
+predicted labels:['SERVICE#GENERAL']
+I wish I could like this place more, and I wish someone would retrain the staff.
+gold labels:set(['RESTAURANT#GENERAL', 'SERVICE#GENERAL'])
+predicted labels:['RESTAURANT#GENERAL', 'SERVICE#GENERAL']
