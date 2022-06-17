@@ -1,5 +1,5 @@
 Theano==0.9.0b1
-numpy==1.12.1
+numpy==1.21.0
 six==1.10.0
 tensorflow==1.1.0
 nltk==3.2.2
